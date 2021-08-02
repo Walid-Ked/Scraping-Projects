@@ -1,8 +1,8 @@
-# Scraping-Projects
+## Scraping-Projects
  
 Scraping Data From Various Websites using BeautifulSoup, Scrapy, APIs, Selenium ... ect
 
-# Scraped Websites:
+## Scraped Websites:
 
 - ### notino.fr (https://www.notino.fr/)
   
