@@ -12,6 +12,10 @@ Scraping Data From Various Websites using BeautifulSoup, Scrapy, APIs, Selenium 
   
   Available Data: Restaurants Details, Restaurants Reviews
 
+- ### Shopify Stores
+  
+  Available Data: Products Details, SKU, Price, Image, Variants
+
 - ### maroof.sa (https://maroof.sa/)
 
   Available Data: Buisinesses Links, Businisses Details (Contact, Social Media, Addresses ... ect)
