@@ -19,3 +19,11 @@ Scraping Data From Various Websites using BeautifulSoup, Scrapy, APIs, Selenium 
 - ### maroof.sa (https://maroof.sa/)
 
   Available Data: Buisinesses Links, Businisses Details (Contact, Social Media, Addresses ... ect)
+
+- ### xbox.com (https://xbox.com/)
+
+  Available Data: Games Links, Games Details (Publisher, Developer, Min Age, Price, Images, Description ... ect)
+
+- ### accommodationforstudents.com (https://www.accommodationforstudents.com/)
+
+  Available Data: houses Links, Houses Details (Address, Rent, City, Type ... ect)
