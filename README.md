@@ -1,6 +1,6 @@
 ## Scraping-Projects
  
-Scraping Data From Various Websites using BeautifulSoup, Scrapy, APIs, Selenium ... ect
+Scraping Data From Various Websites using Hidden APIs, BeautifulSoup, Scrapy, Selenium ... ect
 
 ## Scraped Websites:
 
@@ -27,3 +27,7 @@ Scraping Data From Various Websites using BeautifulSoup, Scrapy, APIs, Selenium 
 - ### accommodationforstudents.com (https://www.accommodationforstudents.com/)
 
   Available Data: houses Links, Houses Details (Address, Rent, City, Type ... ect)
+
+- ### yaschools.com (https://yaschools.com/)
+
+  Available Data: School name, City, District, Logo, Category, Fees, Gender ...ect)
